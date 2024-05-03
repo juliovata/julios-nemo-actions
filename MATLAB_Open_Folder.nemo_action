@@ -1,7 +1,7 @@
 [Nemo Action]
 Active=true
-Name=Open With Code
-Exec=/home/jvata/matlab-ubuntu/matlab_launcher.sh %F
+Name=Open With MATLAB
+Exec=/home/jvata/bin/matlab_launcher.sh %F
 Icon-Name=matlab
 Selection=single
 Extensions=dir
