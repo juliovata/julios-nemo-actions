@@ -7,4 +7,4 @@ My actions cover the functionality
 # Prerequisits
 - VSCode
 - MATLAB
-- juliovata/matlab-support
+- juliovata/matlab-helper
