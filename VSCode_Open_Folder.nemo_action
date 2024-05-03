@@ -1,0 +1,7 @@
+[Nemo Action]
+Active=true
+Name=Open With Code
+Exec=code %F
+Icon-Name=visual-studio-code
+Selection=single
+Extensions=dir
